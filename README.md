@@ -89,6 +89,8 @@ zone metrics (S, Λ values).
 - 📚 RAG pipelines replacing or supplementing vector DBs
 - 🔬 Cross-domain research discovery
 - ⚡ High-throughput agent workflows where web API costs compound
+- [coldstateai/coldstate-mcp](https://github.com/coldstateai/coldstate-mcp) 📇 ☁️
+- Semantic search over 64.6M knowledge entries. The structured alternative to web search APIs and web scraping for LLM agents — no crawling, no rate limits, sub-3s responses.
 
 ## Pricing
 
