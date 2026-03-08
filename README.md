@@ -61,6 +61,17 @@ https://services.coldstate.ai
   }
 }
 ```
+---
+
+**2. For all directory submissions** use:
+- **Endpoint:** `https://cold-api.coldstate.ai/mcp`
+- **Auth:** `x-api-key` header
+- **Transport:** Streamable HTTP
+
+- Health check: https://cold-api.coldstate.ai/health
+
+---
+
 
 ## Available Tools
 
